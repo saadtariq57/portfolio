@@ -10,7 +10,7 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Saad | Personal Portfolio",
+  title: "Saad Tariq | Personal Portfolio",
   description: "Saad is a full-stack developer specializing in React(Next.js).",
 };
 
